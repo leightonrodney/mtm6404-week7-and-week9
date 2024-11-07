@@ -1,0 +1,16 @@
+.student-id {
+  border: 2px solid green;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+}
+
+.student-id p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.student-number {
+  color: green;
+  text-align: center;
+}
